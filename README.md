@@ -49,7 +49,8 @@ Here are some of my best works 👇
 - live link: https://fahmidaafrozmoni2928-droid.github.io/assignment-4/
 - Description: A simple and efficient website to track job applications, manage statuses, and stay organized during the job search.
 - 🔹 Digital Tools Project
-- live link:  https://fahmidaafrozmoni2928-droid.github.io/batch13-assignment5/
+- live link:   https://fahmidaafrozmoni2928-droid.github.io/digital-tools/
+
 - Description : A modern web app showcasing useful digital tools with a clean UI, built using React, Tailwind CSS, and DaisyUI.
 - 🔹Github Issue Tracker
 - live link :   https://fahmidaafrozmoni2928-droid.github.io/batch13-assignment5/
