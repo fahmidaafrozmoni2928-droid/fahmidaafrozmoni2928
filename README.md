@@ -1,1 +1,59 @@
-# fahmidaafrozmoni2928
+# fahmidaafrozmoni2928   
+# 👋 Hi, I'm Masuda Mim
+
+🎓 I am a passionate learner and developer  
+💻 Currently exploring **Web Development & Modern Technologies**  
+🌱 I’m working on projects like **Digital Tools**  
+🚀 Interested in building creative and user-friendly applications  
+
+---
+
+## 🌐 About Me
+
+- 🔍 I love exploring new technologies  
+- 🧠 Always learning and improving my skills  
+- 💡 I enjoy solving real-life problems using code  
+- ✨ Goal: Become a skilled full-stack developer  
+
+---
+
+## 🛠️ Skills & Technologies
+
+- 💻 HTML | CSS | JavaScript  
+- ⚛️ React.js | Next.js 
+- 🎨 Tailwind CSS | DaisyUI  
+- 🔧 Git & GitHub  
+- 📦 JSON  
+
+---
+
+## 🚀 Current Projects
+
+- 🌍 Job Application Tracker 
+- 🛠️ Digital Tools Website  
+- 📦 More exciting projects coming soon...  
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn:  https://www.linkedin.com/in/masudasultanamim?utm_source=share_via&utm_content=profile&utm_medium=member_android 
+- 📧 Email: masudasultanamim7091@gmail.com    
+
+---
+
+## 📌 Pinned Repositories
+
+Here are some of my best works 👇  
+- 🔹 Job Application Tracker
+- live link: https://fahmidaafrozmoni2928-droid.github.io/assignment-4/
+- Description: A simple and efficient website to track job applications, manage statuses, and stay organized during the job search.
+- 🔹 Digital Tools Project
+- live link:
+- 🔹 Other Practice Projects  
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy learning new things and turning ideas into reality through code 💡✨
